@@ -1,0 +1,24 @@
+# 95 Breda - Principal cities: 's Hertogenbosch & Breda
+
+owner = BRB
+controller = BRB
+add_core = BRB
+is_city = yes
+capital = "'s Hertogenbosch"
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 7 
+base_production = 7
+trade_goods = cloth
+base_manpower = 4
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

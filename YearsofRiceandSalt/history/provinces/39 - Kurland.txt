@@ -1,0 +1,35 @@
+#Kurland, center at Goldingen
+
+owner = LIV
+controller = LIV
+add_core = LIV
+culture = latvian
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Goldingen"
+estate = estate_church #Pilten
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+#1561.11.28
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

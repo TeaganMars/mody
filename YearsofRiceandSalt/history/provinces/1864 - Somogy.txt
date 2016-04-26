@@ -1,0 +1,34 @@
+#1864 - Somogy
+
+owner = HUN
+controller = HUN 
+culture = hungarian
+religion = catholic
+capital = "Kaposvár"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_church
+add_core = HUN
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

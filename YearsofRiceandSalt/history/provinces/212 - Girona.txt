@@ -1,0 +1,34 @@
+#212 - Girona
+
+owner = ARA		#Alfons V of Aragon
+controller = ARA
+add_core = ARA
+add_core = CAT
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = fish 
+base_manpower = 3
+fort_15th = yes #Ciutadella de Roses
+capital = "Girona" 
+estate = estate_nobles
+is_city = yes		# census of 1462, also includes the town of Figueres 
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

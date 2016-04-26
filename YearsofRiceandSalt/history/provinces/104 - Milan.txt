@@ -1,0 +1,34 @@
+#104 - Milano
+
+owner = MLO
+controller = MLO
+culture = lombard
+religion = catholic
+hre = yes
+base_tax = 11 
+base_production = 11 
+trade_goods = cloth
+base_manpower = 8
+fort_15th = yes #Sforza Castle
+capital = "Milano"
+is_city = yes	# Estimated
+add_core = MLO
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

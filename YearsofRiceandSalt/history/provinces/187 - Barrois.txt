@@ -1,0 +1,34 @@
+# 187 Barrois - Principal cities: Verdun
+
+owner = BAR
+controller = BAR
+capital = "Bar-le-Duc"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = cloth
+base_manpower = 5
+add_core = BAR
+fort_15th = yes
+ # La Notre-Dame de Verdun
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

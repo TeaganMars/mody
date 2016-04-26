@@ -1,0 +1,35 @@
+# 182 Vermandois - Principal cities: Compiègne
+
+owner = FRA
+controller = FRA
+capital = "Compiègne"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 4
+add_core = CHP
+add_core = PIC
+add_core = FRA
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

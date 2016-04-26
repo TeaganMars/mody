@@ -1,0 +1,34 @@
+#223 - Granada
+
+owner = GRA		# Mustapha Sa'd King of Granada
+controller = GRA
+add_core = GRA
+culture = andalucian
+religion = sunni
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = salt
+base_manpower = 3 
+fort_15th = yes
+capital = "Granada"
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

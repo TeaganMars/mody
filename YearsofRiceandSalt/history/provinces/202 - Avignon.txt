@@ -1,0 +1,34 @@
+# 202 Avignon - Principal cities: Avignon
+
+owner = AVI		# The great Schism
+controller = AVI
+capital = "Avignon"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+add_core = AVI
+add_core = PRO
+
+fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath a natural rock formation
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

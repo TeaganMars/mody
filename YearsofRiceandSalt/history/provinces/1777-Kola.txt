@@ -1,0 +1,33 @@
+#Kola
+
+owner = NOV
+controller = NOV 
+capital = "Kola"
+culture = sapmi
+religion = orthodox
+hre = no
+add_core = NOV
+base_tax = 1 
+base_production = 1
+is_city = yes
+trade_goods = fur
+base_manpower = 1
+native_hostileness = 1
+native_size = 2
+native_ferocity = 2
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+add_local_autonomy = 25
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

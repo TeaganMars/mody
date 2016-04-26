@@ -1,0 +1,26 @@
+#1753 - Kostroma
+
+owner = MOS
+controller = MOS
+culture = russian 
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 3
+capital = "Kostroma"
+is_city = yes
+add_core = MOS
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

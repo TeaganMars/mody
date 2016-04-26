@@ -1,0 +1,32 @@
+# 171 Morbihan
+
+owner = BRI
+controller = BRI 
+capital = "Rohan"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 4
+estate = estate_nobles
+add_core = BRI
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

@@ -1,0 +1,34 @@
+#241 - Glamorgan
+
+owner = ENG
+controller = ENG
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = iron
+base_manpower = 2
+capital = "Carmarthen"
+is_city = yes
+add_core = ENG
+add_core = WLS
+
+
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

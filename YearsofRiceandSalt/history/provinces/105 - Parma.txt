@@ -1,0 +1,35 @@
+#105 - Parma
+
+owner = MLO
+controller = MLO
+culture = romagnan 
+religion = catholic 
+hre = yes 
+base_tax = 6 
+base_production = 6 
+trade_goods = grain
+base_manpower = 4 
+capital = "Parma" 
+estate = estate_nobles
+is_city = yes	# Estimated 
+add_core = MLO
+add_core = PAR
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

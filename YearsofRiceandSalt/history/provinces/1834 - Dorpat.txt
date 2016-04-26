@@ -1,0 +1,33 @@
+#Dorpat
+
+owner = LIV
+controller = LIV
+add_core = LIV
+add_core = LVA
+culture = latvian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Dorpat"
+is_city = yes
+estate = estate_nobles
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

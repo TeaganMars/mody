@@ -1,0 +1,33 @@
+#1766 - Kosovo
+
+owner = SER
+controller = SER
+culture = serbian
+religion = orthodox
+capital = "Pristina"
+trade_goods = gold #Novo Brdo and other Silver mines in this area
+hre = no
+base_tax = 2 
+base_production = 4
+base_manpower = 2
+is_city = yes
+estate = estate_church
+add_core = SER
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

@@ -1,0 +1,6 @@
+YoRaS v0.1.1
+EU4 v1.16
+
+
+Ran Genocide_generator on list.txt
+removed a dutch advisor from history/advisors/IndiaSouthEastAsia.txt and partially added in Bistami

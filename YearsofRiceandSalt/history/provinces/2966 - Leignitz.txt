@@ -1,0 +1,32 @@
+# - Glogau 
+
+owner = SIL
+controller = SIL
+culture = schlesian
+religion = catholic
+capital = "Glogau"
+trade_goods = grain
+hre = yes
+base_tax = 4
+base_production = 4
+is_city = yes
+base_manpower = 1
+add_core = SIL
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

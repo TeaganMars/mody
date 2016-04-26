@@ -1,0 +1,32 @@
+#Ösel and Dagö, incl. Sonnenburg and Arensburg.
+
+owner = LIV
+controller = LIV
+add_core = LIV
+add_core = EST
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = grain
+base_manpower = 1
+capital = "Arensburg"
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

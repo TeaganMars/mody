@@ -1,0 +1,32 @@
+# - Hradecko
+
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Hradec Králové"
+culture = czech
+religion = catholic
+trade_goods = grain 
+hre = yes
+base_tax = 5
+base_production = 5
+base_manpower = 2
+estate = estate_nobles
+is_city = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+ 
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

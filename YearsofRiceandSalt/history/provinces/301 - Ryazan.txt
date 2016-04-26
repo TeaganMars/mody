@@ -1,0 +1,32 @@
+#301 - Ryazan
+
+owner = RYA
+controller = RYA   
+culture = ryazanian
+religion = orthodox
+hre = no
+base_tax = 8
+base_production = 8
+trade_goods = wool
+base_manpower = 6
+capital = "Pereyaslavl-Ryazansky"
+is_city = yes
+fort_15th = yes
+add_core = RYA
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group
+
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

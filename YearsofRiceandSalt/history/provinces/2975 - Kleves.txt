@@ -1,0 +1,29 @@
+owner = KLE #In reality Kleves and Berg are not united before 1510.
+controller = KLE
+add_core = KLE
+culture = hessian
+religion = catholic
+trade_goods = cloth
+capital = "Kleves"
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+hre = yes
+
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty

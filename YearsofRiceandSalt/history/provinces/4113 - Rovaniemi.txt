@@ -1,0 +1,24 @@
+#Finnish Lappland - Rovaniemi
+
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = finnish #Probably also a large Sami population.
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Rovaniemi"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+
+
+1444.1.1 = {    owner = XXX
+                controller = XXX
+                citysize = 0
+                base_tax = 1
+                base_production = 1
+                base_manpower = 1} # Final Death is complete, this makes the provence empty
