@@ -2,7 +2,7 @@
 
 owner = BRI
 controller = BRI
-capital = "Nantes"
+capital = "Nasara"
 is_city = yes
 culture = breton
 religion = catholic
@@ -11,8 +11,6 @@ base_tax = 6
 base_production = 6
 trade_goods = salt
 base_manpower = 5
-add_core = BRI
-
 
 
 discovered_by = eastern
