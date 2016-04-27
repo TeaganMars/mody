@@ -718,3 +718,6 @@ ICM = "countries/Ichma.txt"
 # ???
 JMN = "countries/Jan Mayen.txt"
 ROM = "countries/RomanEmpire.txt"
+
+#YORAS
+NAS = "countries/Nasara.txt"
