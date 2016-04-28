@@ -720,5 +720,10 @@ JMN = "countries/Jan Mayen.txt"
 ROM = "countries/RomanEmpire.txt"
 
 #YORAS
+
+#Iberia
 NAS = "countries/Nasara.txt"
 BAA = "countries/Baraka.txt"
+COD = "countries/Cordoba.txt"
+SEV = "countries/Sevilla.txt"
+TOL = "countries/Toledo.txt"

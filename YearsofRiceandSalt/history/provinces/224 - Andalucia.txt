@@ -1,4 +1,4 @@
-#224 - Andalucía
+#224 - Andalucï¿½a
 
 owner = CAS	#Juan II of Castille
 controller = CAS
@@ -39,3 +39,7 @@ add_permanent_province_modifier = {
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1502.1.1 = {    owner = SEV
+                controller = SEV
+                add_core = SEV}
