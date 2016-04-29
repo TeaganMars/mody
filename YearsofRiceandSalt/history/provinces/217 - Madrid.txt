@@ -10,8 +10,8 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth 
 base_manpower = 5
-capital = "Madrid" 
-is_city = yes # Includes the population of Alcalá de Henares and Guadalajara, that at times were bigger than Madrid itself 
+capital = "al-Majriti"
+is_city = yes
 
 
 
@@ -29,3 +29,7 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1507.1.1 = {    owner = ALM
+                controller = ALM
+                add_core = ALM}

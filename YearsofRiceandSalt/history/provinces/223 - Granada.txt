@@ -11,7 +11,7 @@ base_production = 6
 trade_goods = salt
 base_manpower = 3 
 fort_15th = yes
-capital = "Granada"
+capital = "Malaga"
 is_city = yes
 
 
@@ -32,3 +32,8 @@ discovered_by = eastern
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+
+1492.1.1 = {    owner = MLG
+                controller = MLG
+                add_core = MLG}

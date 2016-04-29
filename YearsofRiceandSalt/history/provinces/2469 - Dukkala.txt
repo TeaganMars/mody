@@ -28,22 +28,10 @@ discovered_by = eastern
 	add_core = FEZ
 	unrest = 0
 } #Wattasids take control over Fez, nominal ruler over much of Morocco.
-1485.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	remove_core = FEZ
-}
-1542.1.1 = {
-	owner = TFL
-	controller = TFL
-	add_core = TFL
-	capital = "Azamor"
-} # Portuguese withdrawal from most of the province (exception is Mazagan)
 1549.1.1 = {
 	owner = MOR
 	controller = MOR
-	remove_core = TFL
+	remove_core = FEZ
 }	#Fall of Fez
 1638.10.26 = {
 	owner = FEZ

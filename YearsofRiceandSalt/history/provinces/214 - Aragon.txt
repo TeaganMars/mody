@@ -1,4 +1,4 @@
-#214 - Aragón
+#214 - Aragï¿½n
 
 owner = ARA		# Alfons V of Aragon
 controller = ARA
@@ -29,3 +29,5 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+#1573 home only to a few traders. soon will be populated, with baraka on the other side
