@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 4
 trade_goods = wool 
 base_manpower = 2
-capital = "Jaén"
+capital = "Jaï¿½n"
 estate = estate_church 
 is_city = yes
 
@@ -30,3 +30,7 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1505.1.1 = {    owner = COD
+                controller = COD
+                add_core = COD}

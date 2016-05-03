@@ -31,3 +31,7 @@ discovered_by = eastern
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1502.1.1 = {    owner = MLG
+                controller = MLG
+                add_core = MLG}

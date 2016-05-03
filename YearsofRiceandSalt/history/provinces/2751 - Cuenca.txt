@@ -29,3 +29,8 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+
+1510.1.1 = {    owner = TOL
+                controller = TOL
+                add_core = TOL}

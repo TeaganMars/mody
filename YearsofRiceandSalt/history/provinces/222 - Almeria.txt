@@ -1,4 +1,4 @@
-#222 - Almería
+#222 - Almerï¿½a
 
 owner = GRA		#Mustapha Sa'd King of Granada
 controller = GRA
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 trade_goods = grain
 base_manpower = 2
-capital = "Almería"
+capital = "Almerï¿½a"
 estate = estate_nobles
 is_city = yes
 
@@ -32,3 +32,7 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1493.1.1 = {    owner = GRA
+                controller = GRA
+                add_core = GRA}

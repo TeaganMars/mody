@@ -8,7 +8,7 @@ religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
-trade_goods = gold #Almadén
+trade_goods = gold #Almadï¿½n
 base_manpower = 3
 capital = "Ciudad Real" 
 is_city = yes
@@ -29,3 +29,7 @@ discovered_by = ottoman
                 base_tax = 1
                 base_production = 1
                 base_manpower = 1} # Final Death is complete, this makes the provence empty
+
+1507.1.1 = {    owner = COD
+                controller = COD
+                add_core = COD}
