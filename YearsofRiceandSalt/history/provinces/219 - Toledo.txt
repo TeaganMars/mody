@@ -1,18 +1,11 @@
 #219 - Toledo
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
-culture = castillian
-religion = catholic
 hre = no
-base_tax = 6 
-base_production = 6
+base_tax = 1
+base_production = 1
 trade_goods = iron 
-base_manpower = 4
-capital = "Toledo" 
-is_city = yes
-fort_15th = yes
+base_manpower = 1
+capital = "Toledo"
 
 
 
@@ -23,15 +16,11 @@ discovered_by = ottoman
 
 
 
-
-1444.1.1 = {    owner = XXX
-                controller = XXX
-                citysize = 0
-                base_tax = 1
-                base_production = 1
-                base_manpower = 1} # Final Death is complete, this makes the provence empty
-
-1505.1.1 = {    owner = TOL
+1563.1.1 = {    owner = TOL
+                is_city = yes
                 controller = TOL
-                add_core = TOL}
+                culture = andalucian
+                religion = sunni
+                }
 
+1573.1.1 = {    add_core = TOL}

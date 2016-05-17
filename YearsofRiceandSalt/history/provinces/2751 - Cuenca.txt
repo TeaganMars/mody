@@ -1,17 +1,11 @@
 #2751 - Cuenca
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
-culture = castillian
-religion = catholic
 hre = no
-base_tax = 4 
-base_production = 4
+base_tax = 1
+base_production = 1
 trade_goods = cloth 
-base_manpower = 3
-capital = "Cuenca" 
-is_city = yes
+base_manpower = 1
+capital = "Cuenca"
 
 
 
@@ -23,14 +17,11 @@ discovered_by = ottoman
 
 
 
-1444.1.1 = {    owner = XXX
-                controller = XXX
-                citysize = 0
-                base_tax = 1
-                base_production = 1
-                base_manpower = 1} # Final Death is complete, this makes the provence empty
-
-
-1510.1.1 = {    owner = TOL
+1568.1.1 = {    owner = TOL
+                is_city = yes
                 controller = TOL
-                add_core = TOL}
+                culture = andalucian
+                religion = sunni
+                }
+
+1578.1.1 = {    add_core = TOL}
