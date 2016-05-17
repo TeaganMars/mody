@@ -1,18 +1,11 @@
 #230 - Algarve
 
-owner = POR
-controller = POR
-culture = portugese
-religion = catholic
 capital = "Faro"
 trade_goods = fish
 hre = no
-base_tax = 4
-base_production = 4
-base_manpower = 4
-is_city = yes 
-add_core = POR
-
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 
 discovered_by = western
@@ -22,11 +15,11 @@ discovered_by = eastern
 
 
 
+1568.1.1 = {    owner = SEV
+                is_city = yes
+                controller = SEV
+                culture = andalucian
+                religion = sunni
+                }
 
-
-1444.1.1 = {    owner = XXX
-                controller = XXX
-                citysize = 0
-                base_tax = 1
-                base_production = 1
-                base_manpower = 1} # Final Death is complete, this makes the provence empty
+1578.1.1 = {    add_core = SEV}
