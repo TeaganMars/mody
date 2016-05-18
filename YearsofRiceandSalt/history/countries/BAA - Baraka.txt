@@ -11,7 +11,6 @@ fixed_capital = 173 # Cannot move capital away from this province & no power cos
 		name = "Mawji"
 		dynasty = "Darya"
 		birth_date = 1550.1.1
-		death_date = 1579.1.1
 		adm = 2
 		dip = 1
 		mil = 2
