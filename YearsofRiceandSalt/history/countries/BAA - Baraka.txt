@@ -1,14 +1,16 @@
-government = iqta
-primary_culture = moroccan
+government = despotic_monarchy
+primary_culture = andalucian
 religion = sunni
 technology_group = muslim
 capital = 173	# Labrador
+#add accepted cultures
 fixed_capital = 173 # Cannot move capital away from this province & no power cost to move to it
 
 1573.1.1 = {
 	monarch = {
 		name = "Mawji"
 		dynasty = "Darya"
+		birth_date = 1550.1.1
 		death_date = 1579.1.1
 		adm = 2
 		dip = 1
@@ -16,10 +18,12 @@ fixed_capital = 173 # Cannot move capital away from this province & no power cos
 	}
 }
 
+
 1579.1.1 = {
 	monarch = {
 		name = "Katima"
 		dynasty = "Darya"
+		birth_date = 1555.1.1
 		adm = 3
 		dip = 3
 		mil = 2

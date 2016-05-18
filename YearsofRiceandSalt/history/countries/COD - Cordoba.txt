@@ -1,5 +1,70 @@
-government = iqta
+government = despotic_monarchy
+mercantilism = 0.1
 primary_culture = andalucian
 religion = sunni
 technology_group = muslim
+add_accepted_culture = berber
 capital = 225	# Cordoba
+
+##national_focus = ?
+
+1501.1.1 = {
+    monarch = {
+        name = "Abdullah"
+        dynasty = "Darya"
+        birth_date = 1444.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+
+1502.01.01 = {
+	heir = {
+		name = "Abdul-Aziz"
+		monarch_name = "Abdul-Aziz"
+		dynasty = "Darya"
+		birth_date = 1502.1.1
+		death_date = 1550.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1520.1.1 = {
+    monarch = {
+        name = "Abdul-Aziz"
+        dynasty = "Darya"
+        birth_date = 1502.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+
+1525.01.01 = {
+	heir = {
+		name = "Mubashir"
+		monarch_name = "Abdul-Aziz"
+		dynasty = "Darya"
+		birth_date = 1525.1.1
+		death_date = 1590.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1550.1.1 = {
+    monarch = {
+        name = "Mubashir"
+        dynasty = "Darya"
+        birth_date = 1525.1.1
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
