@@ -1,0 +1,19 @@
+government = despotic_monarchy
+primary_culture = andalucian
+religion = sunni
+technology_group = muslim
+capital = 220	# Valencia
+mercantilism = 0.1
+#add accepted cultures
+
+
+1573.1.1 = {
+	monarch = {
+		name = "Rahim"
+		dynasty = "Wattassid"
+		birth_date = 1550.1.1
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

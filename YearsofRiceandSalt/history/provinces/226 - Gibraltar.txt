@@ -1,17 +1,11 @@
 #226 - Gibraltar
 
-owner = GRA		# Mustapha Sa'd King of Granada
-controller = GRA
-add_core = GRA
-culture = andalucian
-religion = sunni
 hre = no
-base_tax = 2 
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = fish 
-base_manpower = 2
-capital = "Gibraltar" 
-is_city = yes
+base_manpower = 1
+capital = "Gibraltar"
 
 
 
@@ -23,15 +17,11 @@ discovered_by = eastern
 
 
 
+1495.1.1 = {    owner = GRA
+                controller = GRA
+                add_core = GRA
+                culture = andalucian
+                religion = sunni
+                is_city = yes}
 
-
-1444.1.1 = {    owner = XXX
-                controller = XXX
-                citysize = 0
-                base_tax = 1
-                base_production = 1
-                base_manpower = 1} # Final Death is complete, this makes the provence empty
-
-1502.1.1 = {    owner = MLG
-                controller = MLG
-                add_core = MLG}
+1505.1.1 = {    add_core = GRA}

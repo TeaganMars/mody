@@ -1,18 +1,11 @@
 #222 - Almer�a
 
-owner = GRA		#Mustapha Sa'd King of Granada
-controller = GRA
-add_core = GRA
-culture = andalucian
-religion = sunni
 hre = no
-base_tax = 2 
-base_production = 2
+base_tax = 1
+base_production = 1
 trade_goods = grain
-base_manpower = 2
+base_manpower = 1
 capital = "Almer�a"
-estate = estate_nobles
-is_city = yes
 
 
 
@@ -24,15 +17,11 @@ discovered_by = ottoman
 
 
 
-
-
-1444.1.1 = {    owner = XXX
-                controller = XXX
-                citysize = 0
-                base_tax = 1
-                base_production = 1
-                base_manpower = 1} # Final Death is complete, this makes the provence empty
-
-1493.1.1 = {    owner = GRA
+1497.1.1 = {    owner = GRA
                 controller = GRA
-                add_core = GRA}
+                add_core = GRA
+                culture = andalucian
+                religion = sunni
+                is_city = yes}
+
+1507.1.1 = {    add_core = GRA}
