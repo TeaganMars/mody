@@ -1,5 +1,5 @@
 government = despotic_monarchy
-primary_culture = andalucian
+primary_culture = barakan
 religion = sunni
 technology_group = muslim
 capital = 173	# Labrador

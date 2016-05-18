@@ -1,3 +1,12 @@
 name = "Years of Rice and Salt"
 path = "mod/YearsofRiceandSalt"
 supported_version = "1.17"
+
+replace_path = "common/countries"
+replace_path = "common/country_tags"
+replace_path = "common/cultures"
+replace_path = "gfx"
+replace_path = "history/advisors"
+replace_path = "history/countries"
+replace_path = "history/provinces"
+replace_path = "localisation"

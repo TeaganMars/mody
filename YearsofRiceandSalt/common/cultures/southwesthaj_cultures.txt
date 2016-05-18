@@ -1,0 +1,17 @@
+culture_group_southwesthaj = {
+        graphical_culture = muslimgfx
+
+        barakan = {
+                primary = BAA
+
+                male_names = {
+                        Mawji
+                }
+                female_names = {
+                        Katima
+                }
+                dynasty_names = {
+                        "Darya"
+                }
+        }
+}
