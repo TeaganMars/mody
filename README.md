@@ -1,3 +1,5 @@
+Starting Up
+
 This is the mod's Git, placing it in the 
 
 \Steam\steamapps\common\Europa Universalis IV\mod folder will allow you to load it into your game.
