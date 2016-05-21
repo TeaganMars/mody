@@ -1,4 +1,4 @@
-#Uppland, contains Stockholm, Uppsala & Nyköping.
+#Uppland, contains Stockholm, Uppsala & Nykï¿½ping.nvufgjvhgvgvuyhg
 
 add_core = SWE
 owner = SWE
